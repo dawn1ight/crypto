@@ -1,7 +1,7 @@
 ## CTF Crypto
 *Author: dawn1ight*  
 ***
-本项目用来记录[CTF Crypto](https://f1eeg0urj5.feishu.cn/docx/doxcnpFk1I5yfY8A5CmsjJsAeOb 'CTF Crypto - 飞书云文档')中的项目，不定期更新。  
+本项目用来记录[CTF blog](https://f1eeg0urj5.feishu.cn/docx/doxcnpFk1I5yfY8A5CmsjJsAeOb 'CTF blog - 飞书云文档')中的项目，不定期更新。  
 部分脚本来自各位师傅和大佬们的blog，在这里一并感谢！  
 如果发现内容中的错误，请在云文档中相关处留言，我会尽快处理。  
 
