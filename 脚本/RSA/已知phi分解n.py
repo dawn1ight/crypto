@@ -3,7 +3,7 @@
 from math import gcd
 from math import isqrt
 from random import randrange
-
+from gmpy2 import is_prime
 
 def factorize_multi_prime(N, phi):
     """
